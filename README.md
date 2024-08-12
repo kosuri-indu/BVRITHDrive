@@ -1,4 +1,4 @@
-# BVRITHStudy: Your Go-To BVRIT Academic Resource Hub 📚
+# BVRITHStudy: Your Go-To BVRIT Academic Hub 📚
 
 BVRITHStudy is a collaborative platform created by and for the students of BVRIT Hyderabad College of Engineering for Women. Our goal is to make academic resources accessible to everyone, ensuring that no one has to navigate their studies alone. We extend our sincere thanks to all the faculty and peers who have contributed to this repository, helping to make it a valuable resource for the entire BVRIT community.
 
