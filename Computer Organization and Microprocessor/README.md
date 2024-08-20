@@ -20,7 +20,7 @@ Welcome to the Computer Organization and Microprocessor Repository! This space i
 | Title                                               |  Link                                     |
 |---------------------------------------------------------|---------------------|-----------------------------------------------|
 |Microprocessors and
-Computer Organization         |      | [Visit](https://www.madeeasy.in/uploads/examsolution/14.MicroprocessorsandCO_TheorySample.pdf) |
+Computer Organization         |   -   | [Visit](https://www.madeeasy.in/uploads/examsolution/14.MicroprocessorsandCO_TheorySample.pdf) |
 
 
 Feel free to contribute your own resources or suggestions to make this repository even better for our community! 🚀
