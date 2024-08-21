@@ -1,6 +1,6 @@
 # BVRITHDrive: Your Go-To BVRIT Academic Hub 📚
 
-BVRITHDrive is a collaborative platform created by and for the students of BVRIT HYDERABAD College of Engineering for Women. Our goal is to make academic resources accessible to everyone, ensuring that no one has to navigate their studies alone. We extend our sincere thanks to all the faculty and peers who have contributed to this repository, helping to make it a valuable resource for the entire BVRIT community.
+BVRITHDrive is a collaborative platform created by and for the students of BVRIT HYDERABAD College of Engineering for Women. Our goal is to make academic resources accessible to everyone, ensuring that no one has to navigate their studies alone. We extend our sincere thanks to all the faculty and peers who have contributed to this repository, helping to make it a valuable resource for the entire BVRITH community.
 
 ## About BVRITHStudy
 
@@ -36,6 +36,9 @@ BVRITHDrive/
 * **R22_Syllabus.pdf**: Syllabus files and official documents.
 
 ## How to Use
+
+**Note: Before uploading any content, please check with the faculty to ensure that the materials are appropriate for sharing. We want to respect intellectual property and maintain the integrity of the repository.**
+<br>
 
 Getting involved is simple:
 
