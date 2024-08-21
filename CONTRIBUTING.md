@@ -1,6 +1,6 @@
-# Contributing to BVRITHStudy
+# Contributing to BVRITHDrive
 
-Thank you for considering contributing to BVRITHStudy! This repository is a collaborative effort aimed at making academic resources accessible to all BVRIT Hyderabad students. Your contributions are valuable and help build a richer, more comprehensive resource for everyone.
+Thank you for considering contributing to BVRITHDrive! This repository is a collaborative effort aimed at making academic resources accessible to all BVRIT Hyderabad students. Your contributions are valuable and help build a richer, more comprehensive resource for everyone.
 
 ## How to Contribute
 
@@ -13,7 +13,7 @@ Start by forking the repository to your GitHub account. This creates a copy of t
 Next, clone your forked repository to your local machine so you can start making changes.
 
 ```bash
-git clone https://github.com/your-username/BVRITHStudy.git
+git clone https://github.com/your-username/BVRITHDrive.git
 ```
 
 ### 3. Organize Your Contribution
@@ -52,11 +52,11 @@ git push
 
 ### 6. Create a Pull Request
 
-Finally, go to your fork on GitHub and create a pull request (PR) to the main BVRITHStudy repository. Describe what you've added or changed in the PR description so it's clear to everyone what your contribution is about.
+Finally, go to your fork on GitHub and create a pull request (PR) to the main BVRITHDrive repository. Describe what you've added or changed in the PR description so it's clear to everyone what your contribution is about.
 
 ## Contribution Guidelines
 
-To ensure that BVRITHStudy remains a valuable resource, please keep the following guidelines in mind:
+To ensure that BVRITHDrive remains a valuable resource, please keep the following guidelines in mind:
 
 - **Respect the Structure**: Follow the existing structure of the repository to keep things organized.
 - **Clear Naming**: Use clear and descriptive names for your files and folders.
