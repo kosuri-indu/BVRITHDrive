@@ -5,6 +5,9 @@ BVRITHDrive is a collaborative platform created by and for the students of BVRIT
 ## About BVRITHStudy
 
 Welcome to **BVRITHDrive**—a space created by BVRITH students, for BVRITH students. This repository is all about making our academic lives a bit easier. Whether you’re cramming for exams, looking for past papers, or need a quick refresher on a subject, this is the place to be.
+<br>
+<br>
+**Note: Many of the materials in this repository have been provided by the dedicated faculty of BVRIT HYDERABAD. We deeply appreciate their support in sharing resources for our benefit. Please use these materials responsibly, and ensure proper credit is given where it's due.**
 
 ## Why BVRITHDrive?
 
