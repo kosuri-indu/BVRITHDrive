@@ -1,21 +1,21 @@
-# BVRITHStudy: Your Go-To BVRIT Academic Hub 📚
+# BVRITHDrive: Your Go-To BVRIT Academic Hub 📚
 
-BVRITHStudy is a collaborative platform created by and for the students of BVRIT Hyderabad College of Engineering for Women. Our goal is to make academic resources accessible to everyone, ensuring that no one has to navigate their studies alone. We extend our sincere thanks to all the faculty and peers who have contributed to this repository, helping to make it a valuable resource for the entire BVRIT community.
+BVRITHDrive is a collaborative platform created by and for the students of BVRIT HYDERABAD College of Engineering for Women. Our goal is to make academic resources accessible to everyone, ensuring that no one has to navigate their studies alone. We extend our sincere thanks to all the faculty and peers who have contributed to this repository, helping to make it a valuable resource for the entire BVRIT community.
 
 ## About BVRITHStudy
 
-Welcome to **BVRITHStudy**—a space created by BVRIT students, for BVRIT students. This repository is all about making our academic lives a bit easier. Whether you’re cramming for exams, looking for past papers, or need a quick refresher on a subject, this is the place to be.
+Welcome to **BVRITHDrive**—a space created by BVRITH students, for BVRITH students. This repository is all about making our academic lives a bit easier. Whether you’re cramming for exams, looking for past papers, or need a quick refresher on a subject, this is the place to be.
 
-## Why BVRITHStudy?
+## Why BVRITHDrive?
 
-We’ve all been there—scrambling to find notes, important questions, or past papers right before exams. BVRITHStudy was created to solve that problem. By sharing our resources, we can help each other out and ensure that everyone has access to the materials they need to succeed.
+We’ve all been there—scrambling to find notes, important questions, or past papers right before exams. BVRITHDrive was created to solve that problem. By sharing our resources, we can help each other out and ensure that everyone has access to the materials they need to succeed.
 
 ## Repository Structure
 
 We’ve organized everything into specific folders to keep things neat:
 
 ```markdown
-BVRITHStudy/
+BVRITHDrive/
 │
 ├── Bits/
 ├── Imp Questions/
@@ -40,7 +40,7 @@ Getting involved is simple:
 2. **Clone your forked repo** to your local system:
 
     ```bash
-    git clone https://github.com/your-username/BVRITHStudy.git
+    git clone https://github.com/your-username/BVRITHDrive.git
     ```
 
 3. **Add your materials** to the appropriate folders, or create a new one if needed.
@@ -57,7 +57,7 @@ Getting involved is simple:
     git push
     ```
 
-6. **Submit a pull request** to the main BVRITHStudy repo, explaining what you’ve contributed.
+6. **Submit a pull request** to the main BVRITHDrive repo, explaining what you’ve contributed.
 7. The Repository manager will review your PR and merge it accordingly.
 
 ## Get Involved
