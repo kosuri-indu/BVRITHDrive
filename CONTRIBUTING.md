@@ -3,7 +3,7 @@
 Thank you for considering contributing to BVRITHDrive! This repository is a collaborative effort aimed at making academic resources accessible to all BVRIT Hyderabad students. Your contributions are valuable and help build a richer, more comprehensive resource for everyone.
 <br>
 <br>
-**Note: Before uploading any content, please check with the faculty to ensure that the materials are appropriate for sharing. We want to respect intellectual property and maintain the integrity of the repository.**
+**Note: If you’re uploading material provided by the faculty, please confirm with them before adding it to the repository. If it’s your own content, feel free to upload it directly. This ensures that we respect intellectual property and maintain the integrity of the repository.**
 
 ## How to Contribute
 
